@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AppTokenKit",
-            url: "https://github.com/smoke0030/AppTokenKit/releases/download/1.0.8/AppTokenKit.xcframework.zip",
-            checksum: "0297ad8837f56f73c75147b289181f0cc5ea455ae04e616f933c6471ff92fa91"
+            url: "https://github.com/smoke0030/AppTokenKit/releases/download/1.0.9/AppTokenKit.xcframework.zip",
+            checksum: "fa6374e8351d458d10893b99a59e4b9bd6fcd80312399bf84bbcd5a1039820e8"
         )
     ]
 )
